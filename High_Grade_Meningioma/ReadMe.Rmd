@@ -1,0 +1,6 @@
+
+## Readmen
+
+This is the code underlying our paper, Landscape of genomic alterations in high-grade meningiomas, which was published in npj Genomic Medicine
+
+Each section of the paper has it's own associated R script, with SCNAs for the copy number section, rearrangements for the rearrangements section, etc
